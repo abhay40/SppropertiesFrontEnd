@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "SpProperties"
+  "defaultProject": "SpProperties",
+  "cli": {
+    "analytics": false
+  }
 }
